@@ -1,3 +1,4 @@
+[![Build Status](https://axesor-dev.visualstudio.com/Laboratorio/_apis/build/status/jsantiago43.mslearn-tailspin-spacegame-web?branchName=master)](https://axesor-dev.visualstudio.com/Laboratorio/_build/latest?definitionId=24&branchName=master)
 
 # Contributing
 
