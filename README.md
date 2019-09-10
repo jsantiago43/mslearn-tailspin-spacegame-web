@@ -1,4 +1,7 @@
 
+[![Build Status](https://axesor-dev.visualstudio.com/Laboratorio/_apis/build/status/jsantiago43.mslearn-tailspin-spacegame-web?branchName=master)](https://axesor-dev.visualstudio.com/Laboratorio/_build/latest?definitionId=24&branchName=master)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=space-game-web-jsm&metric=alert_status)](https://sonarcloud.io/dashboard?id=space-game-web-jsm)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
